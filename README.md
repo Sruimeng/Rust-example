@@ -1,2 +1,3 @@
-# Rust-example
+# rust-example
+
 Rust Demo
